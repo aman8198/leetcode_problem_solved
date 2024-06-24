@@ -7,3 +7,5 @@ Solved Longest Substring Without Repeating Characters
 
 Solved Median of two sorted array
 
+Solved  Longest Palindromic Substring
+
