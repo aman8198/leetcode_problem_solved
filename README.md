@@ -9,3 +9,7 @@ Solved Median of two sorted array
 
 Solved  Longest Palindromic Substring
 
+Solved ZigZag Conversion Problem 
+
+
+

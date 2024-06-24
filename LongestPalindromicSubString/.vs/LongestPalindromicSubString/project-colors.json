@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4e961d34-f907-46ef-a745-b384befa2ff4": {
+      "ProjectGuid": "4e961d34-f907-46ef-a745-b384befa2ff4",
+      "DisplayName": "LongestPalindromicSubString",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
