@@ -22,3 +22,6 @@ Link: https://leetcode.com/problems/reverse-integer/
 Solved String to Integer (atoi)
 Link: https://leetcode.com/problems/string-to-integer-atoi/description/
 
+Solved Palindrome Number problem 
+Link: https://leetcode.com/problems/palindrome-number/description/
+
