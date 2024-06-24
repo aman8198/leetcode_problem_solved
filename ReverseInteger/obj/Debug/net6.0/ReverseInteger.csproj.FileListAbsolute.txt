@@ -1,0 +1,15 @@
+E:\leetcode Problem Solved\leetcode_problem_solved\ReverseInteger\obj\Debug\net6.0\ReverseInteger.csproj.AssemblyReference.cache
+E:\leetcode Problem Solved\leetcode_problem_solved\ReverseInteger\obj\Debug\net6.0\ReverseInteger.GeneratedMSBuildEditorConfig.editorconfig
+E:\leetcode Problem Solved\leetcode_problem_solved\ReverseInteger\obj\Debug\net6.0\ReverseInteger.AssemblyInfoInputs.cache
+E:\leetcode Problem Solved\leetcode_problem_solved\ReverseInteger\obj\Debug\net6.0\ReverseInteger.AssemblyInfo.cs
+E:\leetcode Problem Solved\leetcode_problem_solved\ReverseInteger\obj\Debug\net6.0\ReverseInteger.csproj.CoreCompileInputs.cache
+E:\leetcode Problem Solved\leetcode_problem_solved\ReverseInteger\bin\Debug\net6.0\ReverseInteger.exe
+E:\leetcode Problem Solved\leetcode_problem_solved\ReverseInteger\bin\Debug\net6.0\ReverseInteger.deps.json
+E:\leetcode Problem Solved\leetcode_problem_solved\ReverseInteger\bin\Debug\net6.0\ReverseInteger.runtimeconfig.json
+E:\leetcode Problem Solved\leetcode_problem_solved\ReverseInteger\bin\Debug\net6.0\ReverseInteger.dll
+E:\leetcode Problem Solved\leetcode_problem_solved\ReverseInteger\bin\Debug\net6.0\ref\ReverseInteger.dll
+E:\leetcode Problem Solved\leetcode_problem_solved\ReverseInteger\bin\Debug\net6.0\ReverseInteger.pdb
+E:\leetcode Problem Solved\leetcode_problem_solved\ReverseInteger\obj\Debug\net6.0\ReverseInteger.dll
+E:\leetcode Problem Solved\leetcode_problem_solved\ReverseInteger\obj\Debug\net6.0\ref\ReverseInteger.dll
+E:\leetcode Problem Solved\leetcode_problem_solved\ReverseInteger\obj\Debug\net6.0\ReverseInteger.pdb
+E:\leetcode Problem Solved\leetcode_problem_solved\ReverseInteger\obj\Debug\net6.0\ReverseInteger.genruntimeconfig.cache
