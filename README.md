@@ -19,3 +19,6 @@ Link: https://leetcode.com/problems/zigzag-conversion/description/
 Solved Reverse Integer Problem 
 Link: https://leetcode.com/problems/reverse-integer/
 
+Solved String to Integer (atoi)
+Link: https://leetcode.com/problems/string-to-integer-atoi/description/
+

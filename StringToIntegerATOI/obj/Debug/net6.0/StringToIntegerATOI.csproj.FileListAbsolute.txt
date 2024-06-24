@@ -1,0 +1,15 @@
+E:\leetcode Problem Solved\leetcode_problem_solved\StringToIntegerATOI\bin\Debug\net6.0\StringToIntegerATOI.exe
+E:\leetcode Problem Solved\leetcode_problem_solved\StringToIntegerATOI\bin\Debug\net6.0\StringToIntegerATOI.deps.json
+E:\leetcode Problem Solved\leetcode_problem_solved\StringToIntegerATOI\bin\Debug\net6.0\StringToIntegerATOI.runtimeconfig.json
+E:\leetcode Problem Solved\leetcode_problem_solved\StringToIntegerATOI\bin\Debug\net6.0\StringToIntegerATOI.dll
+E:\leetcode Problem Solved\leetcode_problem_solved\StringToIntegerATOI\bin\Debug\net6.0\ref\StringToIntegerATOI.dll
+E:\leetcode Problem Solved\leetcode_problem_solved\StringToIntegerATOI\bin\Debug\net6.0\StringToIntegerATOI.pdb
+E:\leetcode Problem Solved\leetcode_problem_solved\StringToIntegerATOI\obj\Debug\net6.0\StringToIntegerATOI.csproj.AssemblyReference.cache
+E:\leetcode Problem Solved\leetcode_problem_solved\StringToIntegerATOI\obj\Debug\net6.0\StringToIntegerATOI.GeneratedMSBuildEditorConfig.editorconfig
+E:\leetcode Problem Solved\leetcode_problem_solved\StringToIntegerATOI\obj\Debug\net6.0\StringToIntegerATOI.AssemblyInfoInputs.cache
+E:\leetcode Problem Solved\leetcode_problem_solved\StringToIntegerATOI\obj\Debug\net6.0\StringToIntegerATOI.AssemblyInfo.cs
+E:\leetcode Problem Solved\leetcode_problem_solved\StringToIntegerATOI\obj\Debug\net6.0\StringToIntegerATOI.csproj.CoreCompileInputs.cache
+E:\leetcode Problem Solved\leetcode_problem_solved\StringToIntegerATOI\obj\Debug\net6.0\StringToIntegerATOI.dll
+E:\leetcode Problem Solved\leetcode_problem_solved\StringToIntegerATOI\obj\Debug\net6.0\ref\StringToIntegerATOI.dll
+E:\leetcode Problem Solved\leetcode_problem_solved\StringToIntegerATOI\obj\Debug\net6.0\StringToIntegerATOI.pdb
+E:\leetcode Problem Solved\leetcode_problem_solved\StringToIntegerATOI\obj\Debug\net6.0\StringToIntegerATOI.genruntimeconfig.cache
