@@ -49,5 +49,7 @@ Link: https://leetcode.com/problems/3sum-closest/description/
 Solved Letter Combinations of a Phone Number
 Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
 
+Solved 4Sum Problems
+Link: https://leetcode.com/problems/4sum/
 
 
