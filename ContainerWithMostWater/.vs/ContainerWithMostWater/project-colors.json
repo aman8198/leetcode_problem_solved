@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "18d1da9f-a8dc-4cde-aae0-24aec464f97c": {
+      "ProjectGuid": "18d1da9f-a8dc-4cde-aae0-24aec464f97c",
+      "DisplayName": "ContainerWithMostWater",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
