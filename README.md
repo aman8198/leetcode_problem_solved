@@ -43,5 +43,7 @@ Link: https://leetcode.com/problems/longest-common-prefix/description/
 Solved 3Sum Problem 
 Link: https://leetcode.com/problems/3sum/description/
 
+Solved 3Sum Closest
+Link: https://leetcode.com/problems/3sum-closest/description/
 
 
