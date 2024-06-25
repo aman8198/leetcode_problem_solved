@@ -34,5 +34,8 @@ Link: https://leetcode.com/problems/container-with-most-water/description/
 Solved Integer to Roman
 Link: https://leetcode.com/problems/integer-to-roman/description/
 
+Solved Roman to Integer
+Link: https://leetcode.com/problems/roman-to-integer/description/
+
 
 

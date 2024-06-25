@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd7dd11c-0f95-4870-bd96-ddc17dc6c524": {
+      "ProjectGuid": "cd7dd11c-0f95-4870-bd96-ddc17dc6c524",
+      "DisplayName": "IntegerToRoman",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

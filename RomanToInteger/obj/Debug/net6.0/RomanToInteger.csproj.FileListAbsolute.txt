@@ -1,0 +1,14 @@
+E:\leetcode Problem Solved\leetcode_problem_solved\RomanToInteger\bin\Debug\net6.0\RomanToInteger.exe
+E:\leetcode Problem Solved\leetcode_problem_solved\RomanToInteger\bin\Debug\net6.0\RomanToInteger.deps.json
+E:\leetcode Problem Solved\leetcode_problem_solved\RomanToInteger\bin\Debug\net6.0\RomanToInteger.runtimeconfig.json
+E:\leetcode Problem Solved\leetcode_problem_solved\RomanToInteger\bin\Debug\net6.0\RomanToInteger.dll
+E:\leetcode Problem Solved\leetcode_problem_solved\RomanToInteger\bin\Debug\net6.0\ref\RomanToInteger.dll
+E:\leetcode Problem Solved\leetcode_problem_solved\RomanToInteger\bin\Debug\net6.0\RomanToInteger.pdb
+E:\leetcode Problem Solved\leetcode_problem_solved\RomanToInteger\obj\Debug\net6.0\RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+E:\leetcode Problem Solved\leetcode_problem_solved\RomanToInteger\obj\Debug\net6.0\RomanToInteger.AssemblyInfoInputs.cache
+E:\leetcode Problem Solved\leetcode_problem_solved\RomanToInteger\obj\Debug\net6.0\RomanToInteger.AssemblyInfo.cs
+E:\leetcode Problem Solved\leetcode_problem_solved\RomanToInteger\obj\Debug\net6.0\RomanToInteger.csproj.CoreCompileInputs.cache
+E:\leetcode Problem Solved\leetcode_problem_solved\RomanToInteger\obj\Debug\net6.0\RomanToInteger.dll
+E:\leetcode Problem Solved\leetcode_problem_solved\RomanToInteger\obj\Debug\net6.0\ref\RomanToInteger.dll
+E:\leetcode Problem Solved\leetcode_problem_solved\RomanToInteger\obj\Debug\net6.0\RomanToInteger.pdb
+E:\leetcode Problem Solved\leetcode_problem_solved\RomanToInteger\obj\Debug\net6.0\RomanToInteger.genruntimeconfig.cache
