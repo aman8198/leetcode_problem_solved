@@ -1,0 +1,15 @@
+E:\leetcode Problem Solved\leetcode_problem_solved\ContainerWithMostWater\bin\Debug\net6.0\ContainerWithMostWater.exe
+E:\leetcode Problem Solved\leetcode_problem_solved\ContainerWithMostWater\bin\Debug\net6.0\ContainerWithMostWater.deps.json
+E:\leetcode Problem Solved\leetcode_problem_solved\ContainerWithMostWater\bin\Debug\net6.0\ContainerWithMostWater.runtimeconfig.json
+E:\leetcode Problem Solved\leetcode_problem_solved\ContainerWithMostWater\bin\Debug\net6.0\ContainerWithMostWater.dll
+E:\leetcode Problem Solved\leetcode_problem_solved\ContainerWithMostWater\bin\Debug\net6.0\ref\ContainerWithMostWater.dll
+E:\leetcode Problem Solved\leetcode_problem_solved\ContainerWithMostWater\bin\Debug\net6.0\ContainerWithMostWater.pdb
+E:\leetcode Problem Solved\leetcode_problem_solved\ContainerWithMostWater\obj\Debug\net6.0\ContainerWithMostWater.csproj.AssemblyReference.cache
+E:\leetcode Problem Solved\leetcode_problem_solved\ContainerWithMostWater\obj\Debug\net6.0\ContainerWithMostWater.GeneratedMSBuildEditorConfig.editorconfig
+E:\leetcode Problem Solved\leetcode_problem_solved\ContainerWithMostWater\obj\Debug\net6.0\ContainerWithMostWater.AssemblyInfoInputs.cache
+E:\leetcode Problem Solved\leetcode_problem_solved\ContainerWithMostWater\obj\Debug\net6.0\ContainerWithMostWater.AssemblyInfo.cs
+E:\leetcode Problem Solved\leetcode_problem_solved\ContainerWithMostWater\obj\Debug\net6.0\ContainerWithMostWater.csproj.CoreCompileInputs.cache
+E:\leetcode Problem Solved\leetcode_problem_solved\ContainerWithMostWater\obj\Debug\net6.0\ContainerWithMostWater.dll
+E:\leetcode Problem Solved\leetcode_problem_solved\ContainerWithMostWater\obj\Debug\net6.0\ref\ContainerWithMostWater.dll
+E:\leetcode Problem Solved\leetcode_problem_solved\ContainerWithMostWater\obj\Debug\net6.0\ContainerWithMostWater.pdb
+E:\leetcode Problem Solved\leetcode_problem_solved\ContainerWithMostWater\obj\Debug\net6.0\ContainerWithMostWater.genruntimeconfig.cache
