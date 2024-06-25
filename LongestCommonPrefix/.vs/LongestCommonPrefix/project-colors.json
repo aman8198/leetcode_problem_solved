@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "caacf613-2c6a-4f62-894e-f2db2166a74b": {
+      "ProjectGuid": "caacf613-2c6a-4f62-894e-f2db2166a74b",
+      "DisplayName": "LongestCommonPrefix",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
