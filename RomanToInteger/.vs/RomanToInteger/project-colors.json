@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "266fdec7-f802-4017-921c-b001b9445883": {
+      "ProjectGuid": "266fdec7-f802-4017-921c-b001b9445883",
+      "DisplayName": "RomanToInteger",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
